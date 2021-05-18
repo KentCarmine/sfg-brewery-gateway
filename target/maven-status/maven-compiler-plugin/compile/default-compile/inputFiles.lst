@@ -1,0 +1,4 @@
+D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\MonolithDecomposition\mssc-brewery-gateway\src\main\java\com\sfg\gateway\config\GoogleConfig.java
+D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\MonolithDecomposition\mssc-brewery-gateway\src\main\java\com\sfg\gateway\config\LocalHostRouteConfig.java
+D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\MonolithDecomposition\mssc-brewery-gateway\src\main\java\com\sfg\gateway\config\LoadBalancedRoutesConfig.java
+D:\Documents\SpringProjects\SpringMicroservicesCourse\BreweryProject\MonolithDecomposition\mssc-brewery-gateway\src\main\java\com\sfg\gateway\MsscBreweryGatewayApplication.java
